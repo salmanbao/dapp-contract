@@ -24,3 +24,10 @@ Based On Package Manager
 ```shell
 <yarn|npm> slither
 ```
+
+### Deployed smart contract addresses
+
+[Dapp Contract](https://goerli.etherscan.io/address/0x35Fd3f2295e9435EE63e9B8C090FA703063eB558)
+
+[Topup Token Contract](https://goerli.etherscan.io/address/0x88Cb6E5F016BAF0c1cfAf09ED6C103153E9cF7Ce)
+
